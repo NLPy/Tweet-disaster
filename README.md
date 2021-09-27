@@ -16,7 +16,7 @@ Differentes naives bayes model used
 -linear SVC
 
 Evaluation:
-F-score matrix
+F-score matrix,
 Accuracy
 
 
