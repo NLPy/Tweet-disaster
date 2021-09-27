@@ -10,9 +10,10 @@ Counter vectorizer TF-IDF from sklearn
 
 Model : 
 Differentes naives bayes model used
-gaussianNB
-multinomial
-linear SVC
+
+-gaussianNB
+-multinomial
+-linear SVC
 
 Evaluation:
 F-score matrix
